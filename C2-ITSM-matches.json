@@ -1,6 +1,6 @@
 {
-  "enabled": false,
-  "timeoutMs": 5,
+  "enabled": true,
+  "timeoutMs": 500,
   "matches": [
     "https://c2itsmportail-ciussscn.r03.rtss.qc.ca/home/*",
     "https://c2atomportail-ciussscn.r03.rtss.qc.ca/home/*",
